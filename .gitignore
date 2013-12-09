@@ -1,0 +1,34 @@
+src/*.exe
+src/sauronrings
+src/sauronringsd
+src/test_sauronrings
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.sauronrings
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+sauronrings-qt
+abcCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+sauronrings-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile
