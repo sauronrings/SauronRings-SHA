@@ -1,3 +1,3 @@
-SauronRings - An Scarce SHA-256 Coin!
+SauronRings
 ======================================
-
+Forge your rings today!  Public beta
